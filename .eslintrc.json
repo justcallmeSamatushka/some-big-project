@@ -23,6 +23,9 @@
 		"@typescript-eslint/ban-ts-comment": "off",
 		"react/react-in-jsx-scope": "off",
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
+		"max-len": ["error", {
+			"ignoreComments": true
+		}],
 		"i18next/no-literal-string": ["error", {
 			"markupOnly": true
 		}],
