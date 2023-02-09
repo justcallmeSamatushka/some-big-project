@@ -4,5 +4,6 @@
 	"language": "Русский",
 	"main": "Main",
 	"about": "About",
-	"toggle": "toggle"
+	"toggle": "toggle",
+	"pageNotFound": "Page not found"
 }
