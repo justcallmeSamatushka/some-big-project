@@ -1,6 +1,4 @@
 import React, { ErrorInfo, ReactNode, Suspense } from 'react';
-import { types } from 'sass';
-import Error = types.Error;
 import { ErrorWidget } from 'widgets/ErrorWidget';
 
 interface ErrorBoundaryProps {
